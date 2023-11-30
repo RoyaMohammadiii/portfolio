@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front-end focuses on the visual aspect of website the part that users see and intact with."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Back-end development comprises a site's structer, system ,data and logic."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Focuses on the actual constraction of that product or service's interface."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Web Develop",
+      "description": "creating and building and the maintenaning information at the relevent points if needed."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/FullSizeRender-8.jpg",
+      "title": "Add Project",
+      "description": "Using this site, you can add your work projects and enter descriptions, and it wil still be timed.",
+      "link": "https://github.com/Eehrari/ReactPracticeProject_FinishedVersion"
+    },
+    {
+      "id": "2",
+      "src": "./img/FullSizeRender-5.jpg",
+      "title": "Store",
+      "description": "This store has men and wemen clothing that we can order as mutch as we want.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/FullSizeRender-10.jpg",
+      "title": "Timer Challenge",
+      "description": "This challenge is based on time and is made for players in the form of a game.",
+      "link": "https://github.com/Eehrari/ProjectTimerChallenge"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "My primary Education:- I entered school in (2007). I finished my education in the Salgoqy school. fortunately, the school finished with very good grades. ",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "My High education:- My studies at Herat University sarted with excellent gardes and i am currently a third year computer scieence student in the software department. ",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Reinforcement class:- in addition to my university studies, I was able to join Code To inspire and successfully complete the web course.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
